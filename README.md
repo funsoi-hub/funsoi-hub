@@ -1,40 +1,42 @@
 # 👋 Hi, I'm Funso Isola
 
-**Aspiring Cybersecurity Professional** | B.B.A. Information Security & Assurance | M.S. Cybersecurity (in progress)
+**Aspiring Cybersecurity Professional** | B.B.A. Information Security & Assurance | M.S. Cybersecurity (in progress) | Security+ | Network+
 
-I'm passionate about securing systems through automation and monitoring. My experience in IT support, Active Directory management, and network troubleshooting gives me a strong operational foundation. I build tools that turn security theory into practical, automated defenses.
+I'm passionate about building tools that help organizations identify and fix security weaknesses before attackers find them. My focus areas include **vulnerability scanning**, **application security**, and **network defense automation**.
 
 ---
 
 ## 🔧 Technical Skills
-- **Security & Compliance**: Security+, Network+, AD Auditing, Access Control, Password Policy
-- **Networking**: SNMP, TCP/IP, Network Monitoring, Troubleshooting
-- **System Admin**: Windows/Linux, Active Directory, User Provisioning
-- **Development**: Python (scripting, automation), Bash, SQL
-- **Tools**: Wireshark, Nmap, SNMP tools, LDAP clients
+- **Security Tools**: Vulnerability Scanning, Web App Security (OWASP Top 10), Firewall Management
+- **Networking**: Network+ certified, SNMP, Packet Analysis, Firewall Rules (iptables/Windows)
+- **Development**: Python (automation, security tools), Bash, SQL, REST APIs
+- **Infrastructure**: Active Directory, Windows/Linux Administration, Cloud Security Basics
+- **Compliance**: Security+ certified, CVSS scoring, Security Reporting
 
 ---
 
 ## 📌 Featured Projects
 
-### [🔒 Active Directory Security Auditor](https://github.com/funsoi-hub/AD-Security-Auditor)
-Automated security auditing for Active Directory. Detects weak password policies, privileged group members, and insecure service accounts. Generates HTML reports for security teams.
+### [🕸️ Web Vulnerability Scanner](https://github.com/funsoi-hub/web-vuln-scanner)
+Automated web application security scanner that detects SQL injection, XSS, and missing security headers. Generates professional PDF/HTML reports with CVSS scoring and remediation guidance.
 
-**Built with**: Python, ldap3, Security+ best practices
+**Built with**: Python, requests, BeautifulSoup, reportlab | **Focus**: OWASP Top 10, Vulnerability Assessment
 
-### [📡 Network Monitoring Dashboard](https://github.com/funsoi-hub/network-monitoring-dashboard)
-SNMP-based network device monitor with real-time dashboard. Tracks bandwidth, CPU, and uptime; alerts on interface failures and high resource usage.
+### [🔥 Firewall Rule Manager & API Gateway](https://github.com/funsoi-hub/firewall-manager)
+REST API for managing firewall rules with conflict detection (shadowing, overlaps). Includes API security features: JWT authentication, rate limiting, and request logging.
 
-**Built with**: Python, pysnmp, Flask, Chart.js
+**Built with**: Flask, iptables, JWT, rate limiting | **Focus**: Network Security, API Security, Automation
 
 ### [📡 Network Traffic Analyzer Dashboard](https://github.com/funsoi-hub/Network-Traffic-Analyzer-Dashboard)
-Packet analysis tool that visualizes network flows and identifies top talkers and suspicious ports from pcap files.
+Visualizes network flows from pcap files, identifies top talkers and suspicious ports. Built with Python, Scapy, and Flask.
+
+**Built with**: Python, Scapy, Flask, Chart.js | **Focus**: Network Analysis, Threat Hunting
 
 ---
 
-## 💼 Experience Highlights
-- **IT & Administration Intern** @ Frontier Oil Ltd – Managed AD accounts, hardware provisioning, and network troubleshooting.
-- **ISA Department Lead** @ KSU – Supported 100+ students through events and cybersecurity workshops.
+## 💼 Experience
+- **IT & Administration Intern** @ Frontier Oil Ltd – Managed Active Directory, network troubleshooting, hardware provisioning
+- **ISA Department Lead** @ KSU – Organized cybersecurity workshops and industry networking events
 
 ---
 
