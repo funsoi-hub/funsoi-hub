@@ -23,7 +23,7 @@ Visualizes network flows from pcap files, identifies top talkers and suspicious 
 
 ### 🌐 [Web Vulnerability Scanner](https://github.com/funsoi-hub/web-vuln-scanner)
 Automated web application security scanner that detects SQL injection, XSS, and missing security headers. Generates professional PDF/HTML reports with CVSS scoring and remediation guidance.  
-**Built with:** Python, requests, BeautifulSoup, reportlab  
+**Built with:** Python, requests, BeautifulSoup, reportlab, OWASP Zap API  
 **Focus:** OWASP Top 10, Vulnerability Assessment
 
 ---
@@ -32,7 +32,7 @@ Automated web application security scanner that detects SQL injection, XSS, and 
 
 | Category | Skills |
 |----------|--------|
-| **Security Tools** | OWASP ZAP, SonarQube, Aikido, Wireshark, Sophos NGFW |
+| **Security Tools** | OWASP ZAP, SonarQube, Wireshark, NGFW |
 | **IT & Systems** | Active Directory, Windows/Linux Administration, Network Configuration, Firewall Management |
 | **Technical** | Vulnerability Assessment, Python Scripting, Technical Support |
 | **Professional** | Problem-Solving, Cross-Team Collaboration, Technical Documentation |
