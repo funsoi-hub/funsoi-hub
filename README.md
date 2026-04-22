@@ -32,7 +32,7 @@ Automated web application security scanner that detects SQL injection, XSS, and 
 
 | Category | Skills |
 |----------|--------|
-| **Security Tools** | OWASP ZAP, SonarQube, Wireshark, NGFW |
+| **Security Tools** | OWASP ZAP, SonarQube, Wireshark, NGFW, Splunk |
 | **IT & Systems** | Active Directory, Windows/Linux Administration, Network Configuration, Firewall Management |
 | **Technical** | Vulnerability Assessment, Python Scripting, Technical Support |
 | **Professional** | Problem-Solving, Cross-Team Collaboration, Technical Documentation |
@@ -53,5 +53,3 @@ Automated web application security scanner that detects SQL injection, XSS, and 
 - 📧 [funisola@gmail.com](mailto:funisola@gmail.com)
 
 ---
-
-*“Security is not a product, but a process.” – Bruce Schneier*
