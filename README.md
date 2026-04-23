@@ -10,7 +10,7 @@
 
 I'm an Information Technology professional with a Bachelor's in Information Security from Kennesaw State University and am currently pursuing my Master's in Cybersecurity at NYU Tandon (expected May 2027). I'm passionate about application security, network analysis, and building tools that help defend modern systems.
 
-Currently, I'm a **Cybersecurity Intern at Cordros Capital**, where I perform SAST/DAST scans using OWASP ZAP, Aikido, and SonarQube, analyze network traffic with Wireshark, and manage firewall rules on Sophos NGFW.
+Currently, I'm a **Cybersecurity Intern at Cordros Capital**, where I perform SAST/DAST scans using OWASP ZAP and SonarQube, analyze network traffic with Wireshark, and manage firewall rules on Sophos NGFW.
 
 ---
 
