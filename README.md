@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Information Technology professional with a Bachelor's in Information Security from Kennesaw State University and am currently pursuing my Master's in Cybersecurity at NYU Tandon (expected May 2027). I'm passionate about application security, network analysis, and building tools that help defend modern systems.
+I'm an Information Technology professional with a Bachelor's in Information Security from Kennesaw State University and am currently pursuing my Master's in Cybersecurity at NYU Tandon (expected May 2027). I'm passionate about application security, network analysis, and utilizing tools that help defend modern systems.
 
 Currently, I'm a **Cybersecurity Intern at Cordros Capital**, where I perform SAST/DAST scans using OWASP ZAP and SonarQube, analyze network traffic with Wireshark, and manage firewall rules on Sophos NGFW.
 
@@ -49,7 +49,6 @@ Automated web application security scanner that detects SQL injection, XSS, and 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/funisola)
-- 🐙 [GitHub](https://github.com/funsoi-hub)
 - 📧 [funisola@gmail.com](mailto:funisola@gmail.com)
 
 ---
