@@ -4,7 +4,7 @@
 
 I like understanding how things break, so I can build them so they don't. Most of my work sits where security meets software: threat modelling an app before it's built, scanning it while it's being built, and making sure nothing risky ships.
 
-📍 Lagos, Nigeria · [LinkedIn](https://linkedin.com/in/funisola) · [funisola@gmail.com](mailto:funisola@gmail.com)
+📍 Douglasville, GA · [LinkedIn](https://linkedin.com/in/funisola) · [funisola@gmail.com](mailto:funisola@gmail.com)
 
 ---
 
