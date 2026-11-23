@@ -4,14 +4,15 @@
 
 I like understanding how things break, so I can build them so they don't. Most of my work sits where security meets software: threat modelling an app before it's built, scanning it while it's being built, and making sure nothing risky ships.
 
-📍 Douglasville, GA · [LinkedIn](https://linkedin.com/in/funisola) · [funisola@gmail.com](mailto:funisola@gmail.com)
+📍 Lagos, Nigeria · [LinkedIn](https://linkedin.com/in/funisola) · [funisola@gmail.com](mailto:funisola@gmail.com)
 
 ---
 
 ## Right now
 
-- **Cybersecurity Intern at Cordros Capital.** I run SAST and DAST scans with OWASP ZAP and SonarQube, analyse network traffic in Wireshark, and manage firewall rules on Sophos NGFW.
-- **Studying for my M.S. in Cybersecurity** at NYU Tandon (expected May 2027). My B.S. in Information Security is from Kennesaw State University.
+- **IT & Cybersecurity Support at Cordros Capital** (NYSC, Aug 2026 – Jul 2027). I test the company's web apps and a new shareholder portal with OWASP ZAP and Semgrep, wrote the portal's QA and security test plan, and triage Microsoft Defender alerts and device compliance.
+- **Before that, Cybersecurity Intern at Cordros** (Feb – May 2026). I ran SAST and DAST scans with OWASP ZAP, SonarQube and Aikido, analysed network traffic in Wireshark, and managed firewall rules on Sophos NGFW.
+- **Studying for my M.S. in Cybersecurity** at NYU Tandon (expected Aug 2027). My B.B.A. in Information Security and Assurance is from Kennesaw State University.
 - **Building in public** on the projects below.
 
 ---
@@ -72,11 +73,13 @@ Found, proved and fixed a **critical (CVSS 9.8)** remote-code-execution flaw in 
 
 ## 🧰 Toolbox
 
-**Security testing:** OWASP ZAP · SonarQube · Semgrep · Bandit · Trivy · Gitleaks · Wireshark · Splunk
+**Security testing:** OWASP ZAP · Semgrep · SonarQube · Aikido · Bandit · Trivy · Gitleaks · Wireshark · Splunk
+
+**Security operations:** Microsoft Defender (Microsoft 365) · Sophos NGFW · Vulnerability reporting
 
 **Build & automate:** Python · FastAPI · Flask · Docker · GitHub Actions · Git · PowerShell · Bash
 
-**Infrastructure:** Linux & Windows administration · Active Directory · Sophos NGFW · Networking
+**Infrastructure:** Linux & Windows administration · Active Directory · Networking
 
 **Frameworks I work with:** OWASP Top 10 · STRIDE · MITRE ATT&CK · CVSS · CWE
 
