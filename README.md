@@ -22,9 +22,9 @@ Instead of four unrelated demos, I built one realistic project and secured it at
 
 ```mermaid
 flowchart LR
-    A["1. Threat model<br/>How could this be attacked?"] --> B["2. Secure Vault<br/>Build it with those answers"]
-    B --> C["3. DevSecOps pipeline<br/>Block anything risky from shipping"]
-    C --> D["4. Find & fix<br/>Prove it on a real vulnerability"]
+    A["1. Threat model<br/>plan"] --> B["2. Secure Vault<br/>build"]
+    B --> C["3. Pipeline<br/>enforce"]
+    C --> D["4. Find & fix<br/>prove"]
 ```
 
 <table>
